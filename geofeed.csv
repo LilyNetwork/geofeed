@@ -1,6 +1,7 @@
 # prefix,country_code,region_code,city,postal
-2a06:a005:486::/48,HK,HK,,
-2a06:a005:1520::/44,EU,,,
+2a06:a005:486::/48,HK,,,
+2a06:a005:1520::/44,GB,,,
 2a12:3fc2:aa10::/48,GB,GB-ISL,Islington,
-2a12:3fc2:aa10::/44,EU,,,
+2a12:3fc2:aa10::/44,GB,,,
 2a12:3fc2:aa11::/48,US,US-NV,Las Vegas,
+2a12:3fc2:aa12::/48,HK,,,
